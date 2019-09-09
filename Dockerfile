@@ -1,4 +1,4 @@
-FROM ubuntu:12.04
+FROM ubuntu:latest
 
 #Install dependencies
 RUN apt-get -q -y update
